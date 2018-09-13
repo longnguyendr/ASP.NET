@@ -1,0 +1,6 @@
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\bin\Debug\ExercisesV2v003_TASK2.exe.config
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\bin\Debug\ExercisesV2v003_TASK2.exe
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\bin\Debug\ExercisesV2v003_TASK2.pdb
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\obj\Debug\ExercisesV2v003_TASK2.csprojResolveAssemblyReference.cache
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\obj\Debug\ExercisesV2v003_TASK2.exe
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK2\ExercisesV2v003_TASK2\obj\Debug\ExercisesV2v003_TASK2.pdb

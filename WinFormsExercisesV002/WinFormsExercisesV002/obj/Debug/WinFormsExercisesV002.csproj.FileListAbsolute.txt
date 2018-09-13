@@ -1,0 +1,9 @@
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\bin\Debug\WinFormsExercisesV002.exe.config
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\bin\Debug\WinFormsExercisesV002.exe
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\bin\Debug\WinFormsExercisesV002.pdb
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.csprojResolveAssemblyReference.cache
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.Form1.resources
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.Properties.Resources.resources
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.csproj.GenerateResource.Cache
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.exe
+c:\users\long\documents\visual studio 2015\Projects\WinFormsExercisesV002\WinFormsExercisesV002\obj\Debug\WinFormsExercisesV002.pdb

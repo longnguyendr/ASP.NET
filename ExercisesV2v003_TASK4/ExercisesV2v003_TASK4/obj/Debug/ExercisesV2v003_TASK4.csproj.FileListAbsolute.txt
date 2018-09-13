@@ -1,0 +1,9 @@
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\bin\Debug\ExercisesV2v003_TASK4.exe.config
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\bin\Debug\ExercisesV2v003_TASK4.exe
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\bin\Debug\ExercisesV2v003_TASK4.pdb
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.csprojResolveAssemblyReference.cache
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.Form1.resources
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.Properties.Resources.resources
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.csproj.GenerateResource.Cache
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.exe
+c:\users\long\documents\visual studio 2015\Projects\ExercisesV2v003_TASK4\ExercisesV2v003_TASK4\obj\Debug\ExercisesV2v003_TASK4.pdb
